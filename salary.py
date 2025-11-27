@@ -7,5 +7,5 @@ else:
     print("No input given - using default salary:")
 bonus = salary * 0.10
 total = salary + bonus
-print("Bonus Amount:", bonus)
-print("Total Salary:", total)
+print("Bonus Amount:",bonus)
+print("Total Salary:",total)
